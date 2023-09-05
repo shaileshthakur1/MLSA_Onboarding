@@ -30,9 +30,9 @@ const siteProps = {
   gitHub: "shaileshthakur1",
   instagram: "_iamshyless_",
   linkedIn: "shailesh-kumar-thakur-991316205",
-  medium: "Shailesh Kumar Thakur",
+  medium: "",
   twitter: "shylesstwts",
-  youTube: "Shailesh Thakur",
+  youTube: "",
 };
 
 const primaryColor = "#4E567E";
