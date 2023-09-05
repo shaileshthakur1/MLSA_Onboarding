@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/coding.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Baics of DevOps",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Know-Hows to get started in DevOps. First Article on Hashnode.",
+    url: "https://googlecoder.hashnode.dev/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Tic-Tac Toe Game",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "This is the first I made in my life in project lists series. ",
+    url: "https://github.com/shaileshthakur1/Tic-Tac-Toe-TextBased.git",
   },
   {
-    title: "My Resume Site",
+    title: "Built a Password Generator",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Built this project as Major league Hacking Challanges.",
+    url: "https://github.com/shaileshthakur1/Build-a-Password-Generator-MLH-.git",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Why Flutter seems flattering to Dart.",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Youtube video of how to build a password generator in python.",
+    url: "https://youtu.be/ywblrM0SSpg",
   },
 ];
 
