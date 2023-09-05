@@ -32,26 +32,22 @@ const imageAltText = "desktop with books and laptop";
 const projectList = [
   {
     title: "Baics of DevOps",
-    description:
-      "Know-Hows to get started in DevOps. First Article on Hashnode.",
+    description: "Know-Hows to get started in DevOps. First Article on Hashnode.",
     url: "https://googlecoder.hashnode.dev/",
   },
   {
     title: "Tic-Tac Toe Game",
-    description:
-      "This is the first I made in my life in project lists series. ",
+    description: "This is the first I made in my life in project lists series. ",
     url: "https://github.com/shaileshthakur1/Tic-Tac-Toe-TextBased.git",
   },
   {
     title: "Built a Password Generator",
-    description:
-      "Built this project as Major league Hacking Challanges.",
+    description: "Built this project as Major league Hacking Challanges.",
     url: "https://github.com/shaileshthakur1/Build-a-Password-Generator-MLH-.git",
   },
   {
     title: "Why Flutter seems flattering to Dart.",
-    description:
-      "Youtube video of how to build a password generator in python.",
+    description: "Youtube video of how to build a password generator in python.",
     url: "https://youtu.be/ywblrM0SSpg",
   },
 ];
